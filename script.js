@@ -3,7 +3,7 @@ class Animal {
 		this.species = species;
 	}
 
-	get speciesName() {   // proper getter
+	get speciesName() {   
 		return this.species;
 	}
 
